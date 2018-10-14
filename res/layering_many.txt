@@ -1,0 +1,10 @@
++layering
+oval name water center-x 300 center-y 200 x-radius 100 y-radius 50 color .1 .1 1 from 1 to 200 layer 0
+rectangle name house min-x 200 min-y 300 width 100 height 100 color .5 .5 .5 from 1 to 200 layer 3
+oval name lava center-x 200 center-y 200 x-radius 50 y-radius 100 color 1 .1 .1 from 1 to 200 layer 0
+rectangle name window min-x 220 min-y 320 width 25 height 25 color .8 .8 1 from 1 to 200 layer 5
+rectangle name grass min-x 50 min-y 50 width 100 height 100 color .1 1 .1 from 1 to 200 layer 4
+move name window moveto 220 320 220 120 from 0 to 200
+move name grass moveto 50 50 200 200 from 0 to 200
+move name water moveto 300 200 100 200 from 0 to 200
+move name house moveto 200 300 200 100 from 0 to 200

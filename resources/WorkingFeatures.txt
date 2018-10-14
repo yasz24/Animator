@@ -1,0 +1,31 @@
+- We got the provider's VisualView to work to the extent that they had it working. It seems they
+  began adding buttons to it when making their HybridView (as was said in the assignment, when we
+  were instructed to begin by modifying our VisualView), so it is indifferentiable from the
+  HybridView. Their buttons do not work, as specified in the readme they sent to us.
+  It can be run with the '-iv provider_visual' parameter.
+
+- We got the provider's HybridView to work to the extent that they had it working. It is almost
+  identical to their VisualView, but supports the ability to output SVG files (ish). Since their
+  buttons do not work, there is no way to do this, but calling the output method manually works.
+  Their HybridView and VisualView both have bugs where every once in a while, running the program
+  results in a single button that fills the whole screen. This is because they were using JPanel
+  incorrectly. Since they never fixed their code for us, we wrote an example fix to their bug in
+  cs3500.animator.provider.patched (VisualView.java). The JAR we provided uses the unpatched code,
+  since the assignment said it wasn't our job to fix such things.
+  It can be run with the '-iv provider' parameter.
+
+- We got the provider's SvgView to work to the extent that they had it working. Theirs seems to be
+  non functional because of formatting errors. As specified in the code critique, their
+  implementation leaves multiple tags unclosed, including the <svg> tag itself, which also has
+  formatting errors that prevent an internet browser from parsing it. We also patched this,
+  in the same package (SvgAnimationView.java). However, we did not get it fully working- only able
+  to render. We still used the unpatched version in our code and JAR.
+  It can be run with the '-iv provider_svg' parameter.
+
+- We got the provider's TextView working, which is the only view of theirs that works fully in the
+  first place. We had to make multiple extensions to our model to do so, because theirs relied on
+  calling toString methods in their model to get the text rendering.
+  It can be run with the '-iv provider_textual' parameter.
+
+We tested and ensured all our currently-working
+features (textual, svg, visual, hybrid) continue to work.

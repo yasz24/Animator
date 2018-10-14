@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Animator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Animator_jar</output-path>
+    <root id="archive" name="Animator.jar">
+      <element id="module-output" name="Animator" />
+      <element id="library" level="project" name="Animator" />
+    </root>
+  </artifact>
+</component>

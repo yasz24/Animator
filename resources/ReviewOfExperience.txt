@@ -1,0 +1,36 @@
+    Overall, this was the most time-consuming and difficult assignment in this course.
+It was extremely difficult, and tested the limits of our Animator's flexibility.
+
+    The only real interfaces we received from our providers were their model
+(EasyAnimatorOperations.java) and controller (AnimatorControllerInterface.java).
+They had no interfaces for their shapes or animations, only abstract classes called AShape and
+AAnimations. We tried emailing them for these interfaces, but after multiple emails (shesh CC'd in)
+they did not provide the interfaces. That was a bad experience.
+    As mentioned before, the providers even said that apparently we were misunderstanding
+the assignment instead of helping provide us fixes.
+
+    So, we went ahead and reverse-engineered all the interfaces that we needed, namely: IAShape,
+IAAnimation, IColorChange, IMove, IScale, IOval, IRectangle, IMyColor, IPosn. This was difficult.
+We then had to create adapters for our model, and the analogs of the interfaces named above in our
+model, to try and get our interfaces behaving like their interfaces.
+
+    This process was also pretty cumbersome, because some of their methods didn't make sense in the
+context of our model (not their fault). So, it was hard for us to get information from our model
+that was being used internally, and spit out information in the form that their model interface
+expected. Some methods had a lack of descriptive comments, so we had to use the debugger to figure
+out when they were called and what they did.
+
+    However, our design choices in Assignment 7 and 8, especially ModelVisitors<T> really helped us
+in this assignment. In all instances that otherwise may require casting, we were able to instead
+use visitors. We were able to create two new classes IAAnimationAdaptVisitor and
+IAShapeAdapterVisitor that took care of wrapping all the IVisitableActors and IVisitableActions
+in our model, with their appropriate adapters. And because we used visitors, we were able to achieve
+this without having to edit either our actor or our action interfaces.
+    Visitors were most certainly the most important feature of our code for this assignment.
+
+    We wish we had made our actual main class and method smaller and generified.
+Because our main method was one enormous block of code, we had to go back and refactor it so that
+we could handle having a different viewtype without crowbars like casting. We ended up refactoring
+much of the view, controller, and model-creating code into implementations of an interface called
+IAnimatorManager.java. This allowed us to handle having two different view interfaces, because both
+could be wrapped in implementations of IAnimatorManager.java.

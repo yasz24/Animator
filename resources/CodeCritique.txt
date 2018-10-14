@@ -1,0 +1,65 @@
+===========Documentation Critique==========
+    The code was well documented, with some limited exceptions such as the method getAffected() in
+line 24 of IAAnimation.java, which does not explain what an 'affected' is. Otherwise, comments were
+descriptive and helpful. The JavaDoc compiled with a few warnings, such as one for undocumented
+parameters in EasyAnimatorOperations.java at line 30. We would suggest to our providers that they
+always test that their JavaDoc compiles without warnings, though often people fail to compile their
+JavaDoc at all so they did well.
+
+    Not all non-functioning features were specified in our given README, which was a total of four
+sentences. We would suggest our providers write a more comprehensive README, so that we can better
+understand how their code should work.
+
+===========Implementation Critique============
+    The code that we received from our providers was non-functional in multiple ways--
+Some were specified in the README, others not.
+    In their README file, the providers mentioned that their buttons didn't work and the screenshot
+of the buildings animation also had some shapes missing in it (seemingly from a layering issue).
+
+    Their SvgAnimationView implementation does not work, with errors that begin in the preamble of
+the svg file (line 114) -- what should be a closed <svg> tag has no <> surrounding it; additionally,
+many of their animation tags are not closed with a '>'. Since our providers did not email us back
+quickly, and when they did, they accused us of not understanding the homework assignment, we went
+ahead and patched their SvgAnimationView.java class- The patch is located in
+cs3500.animator.provider.patched. We could not get it to work fully, but we got the svg file
+to open at least.
+
+    Their textual view made use of their model's toString to render the shapes as text, performing
+a string search on the toString and replacing instances of 'lower-left corner' with 'min-corner',
+and others as such. Because of that, we had to make our model's toString work with theirs. We did
+this by extending our shape and animation classes (rather than modify our model).
+See MoveActionWithToString.java for an example. We would suggest that our providers create the text
+output from scratch, using the shapes and animations in the model, not their toStrings.
+
+    This creates limitations, because it ties the model implementation to the text view. As such,
+if another model is being used (like ours), we have to mold it to work with the string find
+operations in our providers' text views.
+
+===========Design Critique/Limitations==============
+    The coupling between their view and model was extremely strong. They decided to give their
+custom JPanel(the "Draw" class responsible for drawing their shapes), an instance of their
+model(EasyAnimatorOperations). This choice basically nullified the purpose of having a controller.
+The view was also coupled to several other concrete classes that comprised their model--animations
+like "Move", "ColorChange", "Scale"; shapes like "Rectangle" and "Oval"; and auxillary "MyColor" and
+"Position" classes. Instanceof was often used to draw. We would suggest that interfacews be created
+for these concrete classes.
+
+    The use of many concrete classes meant that the code wouldn't compile as received.
+They had used instance of and type-checking in their views to draw their shapes, apply animations
+and render the SVG/Text output--defeating the purpose of dynamic dispatch and object-oriented
+programming. We would suggest a visitor pattern to perform actions (such as drawing) that vary based
+on the sub-type of the object. This uses double-dispatch instead of type-checking, and would
+be more flexible.
+
+===========Provider Critique=============
+    We sent multiple emails to our providers, pointing out issues in their code, suggesting fixes
+and asking them to create interfaces for their shapes and animations as a whole (only abstract
+AShape and AAnimations existed which they used as pseudo-interfaces), for individual shapes
+(Rectangles and Ovals) and animations(Move, Scale, ColorChange), as well as auxillary
+classes (Position, MyColor).
+    We even offered to meet up with them to help fix their code but the
+providers didn't reply in a timely manner and even when they did reply, they weren't willing to
+provide us with the fixes we had requested. At one point, our providers even accused us of
+misunderstanding the assignment, writing back "The assignment is basically to create adapters so
+that you can use your shape, animations, color, etc classes with our view/controller" when we
+asked them to provide interfaces for their code.
