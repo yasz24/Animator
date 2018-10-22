@@ -2,195 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b0299f-14e4-4d9d-a761-15dd6ed4bb5d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Yash10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Animator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Animator1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Animator_jar/Animate.bs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Animator_jar/Animator.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Animator_jar/Animator.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/AnimationFileReader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/Screen Shot 2018-04-15 at 10.47.32 pm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/Screen Shot 2018-04-15 at 10.48.12 pm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/TweenModelBuilder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/simple-example-with-loopback.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/simple-example.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/smalldemo.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/toh-12.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/toh-3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Sample Files Animations/toh-8.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/big-bang-big-crunch.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/building.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/buildings.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/buildings_layered.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/buildings_manylayers.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Animator_jar/Animator.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Animator_jar/big-bang-big-crunch.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/Animator_jar/execute_jar.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/META-INF/MANIFEST.MF" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/Screen Shot 2018-04-15 at 10.47.32 pm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/Screen Shot 2018-04-15 at 10.48.12 pm.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader$ChangeColorInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader$Inputable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader$MoveInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader$OvalInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader$RectangleInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader$ScaleByInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader$ShapeInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/AnimationFileReader.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/EasyAnimator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/IAnimatorManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/LayerRotAnimFileReader$OvalInfo_.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/LayerRotAnimFileReader$RectangleInfo_.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/LayerRotAnimFileReader$RotateByInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/LayerRotAnimFileReader$ShapeInfo_.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/LayerRotAnimFileReader.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/ModelBuilderRotLayer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/MyAnimatorManager$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/MyAnimatorManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/ProvAnimatorManager$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/ProvAnimatorManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/TweenModelBuilder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/controller/GraphicsAnimController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/controller/HybridAnimController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/controller/HybridControllerWithSlider.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/controller/IAnimationController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/controller/TextAnimController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/controller/adapters/ProvControllerImitate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/controller/adapters/ProvControllerTextualImitate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/AnimatorModelWithLayerRot$Builder$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/AnimatorModelWithLayerRot$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/AnimatorModelWithLayerRot.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/AnimatorModelWithToString$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/AnimatorModelWithToString.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/BasicAnimatorModel$Builder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/BasicAnimatorModel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/EzAnimatorOpsAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/IAnimatorModel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/AbstractAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/ColorAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/ColorActionWithToString.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/IAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/IColorAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/IMoveAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/IRotateAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/IScaleAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/IVisitableAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/MoveAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/MoveActionWithToString.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/RotateAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/ScaleAction.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/ScaleActionWithToString.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/adapters/AAnimationAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/adapters/ColorChangeAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/adapters/MoveAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/action/adapters/ScaleAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/actor/Actor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/actor/IActor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/actor/IVisitableActor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/actor/LayeredActor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/color/Color.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/color/IColor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/color/adapters/ProvAdaptColor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/Ellipse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/IEllipse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/IPosition.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/IRectangle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/IShape.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/IVisitableShape.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/Position.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/Rectangle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/RotEllipse.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/RotRectangle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/adapters/AShapeAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/adapters/OvalAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/adapters/ProvPosnAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/model/shape/adapters/RectangleAdapter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/controller/AnimatorControllerInterface.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/EasyAnimatorOperations.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IAAnimation.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IAShape.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IColorChange.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IMove.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IMyColor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IOval.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IPosn.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IRectangle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IScale.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/patched/SvgAnimationView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/patched/VisualView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/Draw.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/HybridView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/IView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/SvgAnimationView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/TextualView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/VisualView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/AnimationViewCreator$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/AnimationViewCreator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/AppendableView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/ControlButton.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/GraphicalView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/HybridView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/IView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/InteractiveView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/InteractiveViewWithSlider.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/LoopingSvgView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/ScrubbableView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/SvgView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/SwingView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/TextView$Tuple.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/TextView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/ViewType.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/buttonlistener/ButtonListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/buttonlistener/IButtonListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/changeEventListener/ChangeEventListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/changeEventListener/IChangeListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/keyboardlistener/IKeyBoardListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/keyboardlistener/KeyBoardListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/panel/AnimationPanel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/panel/IAnimationPanel.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/AbstVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/IAAnimationAdaptVistor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/IAShapeAdapterVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/LoopingSvgViewVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/ModelVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/SvgViewVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/SwingViewVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/visitors/TextViewVisitor.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/xml/Attribute.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/xml/IAttribute.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/xml/ITag.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/view/xml/Tag.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/simple-example-with-loopback.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/simple-example.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/smalldemo.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/toh-12.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/toh-3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/toh-8.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader$ChangeColorInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader$Inputable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader$MoveInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader$OvalInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader$RectangleInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader$ScaleByInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader$ShapeInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/AnimationFileReader.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Animator/util/TweenModelBuilder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/Animator/DummyController.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/Animator/DummyView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/Animator/TestAnimator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/test/Animator/TestTag.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/output.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rotate_ex.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/toh-12.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/toh-output.svg" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/Animator_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Animator_jar.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/Animator.iml" afterPath="$PROJECT_DIR$/Animator.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Animator_jar/Animator.jar" afterPath="$PROJECT_DIR$/out/artifacts/Animator_jar/Animator.jar" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/controller/AnimatorControllerInterface.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/EasyAnimatorOperations.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IAAnimation.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IAShape.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IColorChange.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IMove.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IMyColor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IOval.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IPosn.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IRectangle.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IScale.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/patched/SvgAnimationView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/patched/VisualView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/Draw.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/HybridView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/IView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/SvgAnimationView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/TextualView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/VisualView.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/controller/AnimatorControllerInterface.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/controller/AnimatorControllerInterface.java" />
+      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/model/EasyAnimatorOperations.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/model/EasyAnimatorOperations.java" />
+      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/view/Draw.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/view/Draw.java" />
+      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/view/VisualView.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/view/VisualView.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -225,7 +63,7 @@
       <file leaf-file-name="EasyAnimator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1021">
+            <state relative-caret-position="1620">
               <caret line="118" column="43" lean-forward="false" selection-start-line="118" selection-start-column="43" selection-end-line="118" selection-end-column="43" />
               <folding />
             </state>
@@ -242,61 +80,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyAnimatorManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/MyAnimatorManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
-              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="big-bang-big-crunch.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/big-bang-big-crunch.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4769">
+            <state relative-caret-position="22455">
               <caret line="1497" column="60" lean-forward="false" selection-start-line="1497" selection-start-column="60" selection-end-line="1497" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SvgAnimationView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/provider/patched/SvgAnimationView.java">
+      <file leaf-file-name="buildings.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/buildings.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+            <state relative-caret-position="-853">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VisualView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/provider/patched/VisualView.java">
+      <file leaf-file-name="ProvAnimatorManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/ProvAnimatorManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="810">
+              <caret line="69" column="5" lean-forward="false" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Draw.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/provider/view/Draw.java">
+      <file leaf-file-name="AnimationFileReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/AnimationFileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="180">
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EasyAnimatorOperations.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cs3500/animator/provider/model/EasyAnimatorOperations.java">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buildings_layered.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buildings_layered.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="45">
+              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -310,6 +151,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -354,9 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -366,24 +211,16 @@
             </path>
             <path>
               <item name="Animator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Animator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Animator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Animator" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="animator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Animator" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,30 +366,31 @@
       <updated>1539469613334</updated>
       <workItem from="1539469620334" duration="766000" />
       <workItem from="1539470473604" duration="145000" />
-      <workItem from="1539470803621" duration="5055000" />
+      <workItem from="1539470803621" duration="7705000" />
+      <workItem from="1540170238565" duration="1600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5966000" />
+    <option name="totallyTimeSpent" value="10216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -564,6 +402,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -579,6 +418,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/ProvAnimatorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="69" column="5" lean-forward="false" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/AnimationFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildings_layered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sample Files Animations/Screen Shot 2018-04-15 at 10.47.32 pm.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -596,7 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -604,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +491,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,16 +517,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/building.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/building.svg" />
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/BasicAnimatorModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
           <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="73" column="7" lean-forward="false" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,7 +561,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,20 +589,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/building.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/building.svg" />
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/BasicAnimatorModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -752,7 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2068">
           <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,7 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,13 +625,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
           <caret line="1432" column="19" lean-forward="false" selection-start-line="1432" selection-start-column="19" selection-end-line="1432" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/MyAnimatorManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
+        <state relative-caret-position="165">
           <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding />
         </state>
@@ -790,7 +638,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/EasyAnimator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1021">
+        <state relative-caret-position="1620">
           <caret line="118" column="43" lean-forward="false" selection-start-line="118" selection-start-column="43" selection-end-line="118" selection-end-column="43" />
           <folding />
         </state>
@@ -830,22 +678,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/Animator_jar/Animator.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/artifacts/Animator_jar/Animate.bs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/out/artifacts/Animator_jar/Animator.sh" />
+    <entry file="file://$PROJECT_DIR$/out/artifacts/Animator_jar/Animate.bs" />
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/model/IAnimatorModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -854,19 +688,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/big-bang-big-crunch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4769">
-          <caret line="1497" column="60" lean-forward="false" selection-start-line="1497" selection-start-column="60" selection-end-line="1497" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/provider/patched/SvgAnimationView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -874,15 +699,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cs3500/animator/provider/view/Draw.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding />
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -890,6 +713,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/ProvAnimatorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="69" column="5" lean-forward="false" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cs3500/animator/AnimationFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildings_layered.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big-bang-big-crunch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22455">
+          <caret line="1497" column="60" lean-forward="false" selection-start-line="1497" selection-start-column="60" selection-end-line="1497" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildings.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-853">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
