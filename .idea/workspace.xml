@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b0299f-14e4-4d9d-a761-15dd6ed4bb5d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Animator_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Animator_jar.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/Animator_jar/Animator.jar" afterPath="$PROJECT_DIR$/out/artifacts/Animator_jar/Animator.jar" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/controller/AnimatorControllerInterface.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/EasyAnimatorOperations.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IAAnimation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IAShape.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IColorChange.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IMove.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IMyColor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IOval.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IPosn.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IRectangle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/model/IScale.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/patched/SvgAnimationView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/patched/VisualView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/Draw.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/HybridView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/IView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/SvgAnimationView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/TextualView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Animator/cs3500/animator/provider/view/VisualView.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/controller/AnimatorControllerInterface.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/controller/AnimatorControllerInterface.java" />
-      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/model/EasyAnimatorOperations.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/model/EasyAnimatorOperations.java" />
-      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/view/Draw.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/view/Draw.java" />
-      <change beforePath="$PROJECT_DIR$/src/cs3500/animator/provider/view/VisualView.java" afterPath="$PROJECT_DIR$/src/cs3500/animator/provider/view/VisualView.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -367,12 +342,20 @@
       <workItem from="1539469620334" duration="766000" />
       <workItem from="1539470473604" duration="145000" />
       <workItem from="1539470803621" duration="7705000" />
-      <workItem from="1540170238565" duration="1600000" />
+      <workItem from="1540170238565" duration="1671000" />
     </task>
+    <task id="LOCAL-00001" summary="Readme">
+      <created>1540174676693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540174676696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10216000" />
+    <option name="totallyTimeSpent" value="10287000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="0" />
@@ -412,6 +395,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -611,6 +598,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -699,6 +687,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -706,6 +695,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -713,6 +703,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
