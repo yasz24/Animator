@@ -157,16 +157,3 @@ CHANGE 03/30/18 IView.java: Added writeSVG() method that writes the animation ba
 CHANGE 4/01/18 IAnimatorModel.java:  HashMap -> LinkedHashMap in getActorCopies(), because it needs
                                      to be ordered
 
-
-02/24/17
-We essentially re-created the model from scratch, using ideas from both of our models
-Namely, we
-- Brought over the visitor pattern for comparing compatibility with IActions (see compatibleWith
-  function in IAction)
-- Brought over the visitor pattern for applying IActions to IActors (see applyTo function in
-  IAction)
-- Decided to use a ShapeType enum to determine how to draw the lines between vertices returned by
-  getVertices
-- Added more visitor patterns, including for compatibility in the IAction interface.
-- Took out the added visitor pattern methods to separate interfaces (see IVisitableAction,
-  IVisitableActor, IVisitableShape)

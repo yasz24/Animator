@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2b0299f-14e4-4d9d-a761-15dd6ed4bb5d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Animator_jar/big-bang-big-crunch.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Animator_jar/execute_jar.sh" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/res/big-bang-big-crunch.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/big-bang-big-crunch_.txt" afterPath="$PROJECT_DIR$/sample text files/big-bang-big-crunch_.txt" />
+      <change beforePath="$PROJECT_DIR$/res/buildings.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/buildings_layered.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/buildings_manylayers.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/layering_2.txt" afterPath="$PROJECT_DIR$/sample text files/layering_2.txt" />
+      <change beforePath="$PROJECT_DIR$/res/layering_many.txt" afterPath="$PROJECT_DIR$/sample text files/layering_many.txt" />
+      <change beforePath="$PROJECT_DIR$/res/rotate_ex.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/rotate_multiple.txt" afterPath="$PROJECT_DIR$/sample text files/rotate_multiple.txt" />
+      <change beforePath="$PROJECT_DIR$/res/rotate_seq.txt" afterPath="$PROJECT_DIR$/sample text files/rotate_seq.txt" />
+      <change beforePath="$PROJECT_DIR$/res/smalldemo.txt" afterPath="$PROJECT_DIR$/sample text files/smalldemo.txt" />
+      <change beforePath="$PROJECT_DIR$/res/toh-12.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/toh-3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/res/toh-8.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/README.txt" afterPath="$PROJECT_DIR$/designSkeleton.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +40,7 @@
         </entry>
       </file>
       <file leaf-file-name="big-bang-big-crunch.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/big-bang-big-crunch.txt">
+        <entry file="file://$PROJECT_DIR$/sample text files/big-bang-big-crunch.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22455">
               <caret line="1497" column="60" lean-forward="false" selection-start-line="1497" selection-start-column="60" selection-end-line="1497" selection-end-column="60" />
@@ -36,8 +49,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="designSkeleton.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/designSkeleton.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="buildings.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buildings.txt">
+        <entry file="file://$PROJECT_DIR$/sample text files/buildings.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-273">
               <caret line="134" column="91" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="91" />
@@ -76,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -90,7 +113,7 @@
         </entry>
       </file>
       <file leaf-file-name="buildings_layered.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buildings_layered.txt">
+        <entry file="file://$PROJECT_DIR$/sample text files/buildings_layered.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
@@ -113,6 +136,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/designSkeleton.txt" />
       </list>
     </option>
   </component>
@@ -167,16 +191,6 @@
             </path>
             <path>
               <item name="Animator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Animator" type="462c0819:PsiDirectoryNode" />
-              <item name="Animator_jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Animator" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Animator" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Animator" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -201,6 +215,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sample text files" />
     </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
@@ -448,7 +463,7 @@
       <workItem from="1539469620334" duration="766000" />
       <workItem from="1539470473604" duration="145000" />
       <workItem from="1539470803621" duration="7705000" />
-      <workItem from="1540170238565" duration="4798000" />
+      <workItem from="1540170238565" duration="5655000" />
     </task>
     <task id="LOCAL-00001" summary="Readme">
       <created>1540174676693</created>
@@ -471,14 +486,29 @@
       <option name="project" value="LOCAL" />
       <updated>1540188524541</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added jar">
+      <created>1540188735751</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540188735751</updated>
+    </task>
+    <task id="LOCAL-00005" summary="organized project structure">
+      <created>1540189204594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540189204594</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13414000" />
+    <option name="totallyTimeSpent" value="14271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -492,7 +522,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -518,37 +548,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Readme" />
     <MESSAGE value="added jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="added jar" />
+    <MESSAGE value="organized project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="organized project structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample Files Animations/Screen Shot 2018-04-15 at 10.47.32 pm.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample Files Animations/AnimationFileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sample Files Animations/smalldemo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -592,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/big-bang-big-crunch.txt">
+    <entry file="file://$PROJECT_DIR$/sample text files/big-bang-big-crunch.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -612,6 +619,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
           <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -619,6 +627,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="73" column="7" lean-forward="false" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -637,13 +646,6 @@
         <state relative-caret-position="165">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sample Files Animations/smalldemo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -695,13 +697,6 @@
         <state relative-caret-position="210">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -819,7 +814,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/buildings_layered.txt">
+    <entry file="file://$PROJECT_DIR$/sample text files/buildings_layered.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
@@ -827,7 +822,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/big-bang-big-crunch.txt">
+    <entry file="file://$PROJECT_DIR$/sample text files/big-bang-big-crunch.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22455">
           <caret line="1497" column="60" lean-forward="false" selection-start-line="1497" selection-start-column="60" selection-end-line="1497" selection-end-column="60" />
@@ -835,7 +830,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/buildings.txt">
+    <entry file="file://$PROJECT_DIR$/sample text files/buildings.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-273">
           <caret line="134" column="91" lean-forward="false" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="91" />
@@ -867,6 +862,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/WorkingFeatures.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ReviewOfExperience.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/CodeCritique.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -875,6 +894,22 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sample Files Animations/smalldemo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/designSkeleton.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
