@@ -7,4 +7,3 @@ do the rest!
 The Animator is an application built in the realms of Java 8. It uses the 
 Swing toolkit for GUI rendering.
 
- 
