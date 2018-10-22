@@ -6,4 +6,6 @@ do the rest!
 -------------
 The Animator is an application built in the realms of Java 8. It uses the 
 Swing toolkit for GUI rendering.
-
+# Generating the TextFile
+* Define the shapes in your animation:
+  rectangle name <Name> min-x <bottom-left x-coordinate> min-y <bottom-left y-coordinate> width <width> height <height> color <R> <G> <B> from <appear-time> to <dissappear-time>
