@@ -20,4 +20,14 @@ For ex:
 >oval name star0 center-x 226  center-y 69 x-radius 3 y-radius 3 color 1 1 1 from 108 to 200
 ```
 * #### Define moves and color transformations on your shapes:
+```bash
+move name [Name] moveto [start-x] [start-y] [end-x] [end-y] from [start-time] to [end-timer]
+For ex:
+>move name window181 moveto 140.0 850.0 140.0 710.0 from 20 to 60
+```
 
+```bash
+change-color name [Name] colorto [start-R] [start-G] [start-B] [end-R] [end-G] [end-B] from [start-time] to [end-time]
+For ex:
+>change-color name background colorto 0.1333 0.37 0.976 0.063 0.18 0.976 from 50 to 90
+```
