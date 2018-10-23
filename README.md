@@ -32,3 +32,13 @@ For ex:
 >change-color name background colorto 0.1333 0.37 0.976 0.063 0.18 0.976 from 50 to 90
 ```
 * #### And that's it! Checkout some of the samples in the "sample text files" directory if you want to see what a full animation text file looks like.
+
+# Using the application
+* #### Simply download the Animator.jar file from the Animator_jar directory.
+* #### Download one or more animation text files from the "sample text files" directory, or create your own. 
+* #### Start the application from the command-line:
+```bash
+java -jar /Path-to-the-jar-file/Animator.jar -if [input file] -iv [view type] -speed [ticks per second] 
+For ex:
+>java -jar ~/Desktop/Animator/Animator_jar/Animator.jar -if big-bang-big-crunch.txt -iv interact_slider -speed 100
+```
