@@ -31,3 +31,4 @@ change-color name [Name] colorto [start-R] [start-G] [start-B] [end-R] [end-G] [
 For ex:
 >change-color name background colorto 0.1333 0.37 0.976 0.063 0.18 0.976 from 50 to 90
 ```
+* #### And that's it! Checkout some of the samples in the "sample text files" directory if you want to see what a full animation text file looks like.
